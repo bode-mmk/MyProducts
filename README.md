@@ -19,3 +19,7 @@ My products is
 ### imas_2018_nazekaremoteLT
 - This slide for using in [IM@S Engineer Talks](https://imas.connpass.com/event/90996/) at "remote LT". with reveal.js
 - You can see github pages in here. https://bode-mmk.github.io/MyProducts/imas_2018_nazekaremoteLT/
+
+### imas_2024
+- This slide for using in [2024/10/12 アイマスハッカソン2024](https://imas.connpass.com/event/328557/ at "remote LT". with reveal.js
+- You can see github pages in here. https://bode-mmk.github.io/MyProducts/imas_2024/
